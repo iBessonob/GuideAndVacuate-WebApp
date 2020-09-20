@@ -9,7 +9,7 @@
 //firebase setup
 import * as firebase from 'firebase';
 
-console.log("BLAHALHASLHLHLAHSDLFHASDF");
+console.log("Testing for debugging purposes");
 let app = firebase.initializeApp({
   databaseURL: 'https://hackmit-df9ea.firebaseio.com/'
 });
